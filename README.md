@@ -1,6 +1,6 @@
 ## RecipeRelay
 
-**For demo : https://recipe-app.qurrahazam.repl.co/
+** For demo : https://recipe-app.qurrahazam.repl.co/
 ---
 This is a small Project build in React. This react app helps you find recipes of different Meals. 
 # Features
