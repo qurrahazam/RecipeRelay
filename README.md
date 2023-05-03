@@ -1,22 +1,24 @@
 ## RecipeRelay
 For demo : https://recipe-app.qurrahazam.repl.co/
+---
 This is a small Project build in React. This react app helps you find recipes of different Meals. 
-#Features
+---
+# Features
 * Browse through differet Recipes.
 * Search Different Recipes
 * Add/Remove Recipes to Favorite
 * Hit Surprise Me..! to get a random meal.
-*View Recipe's Instruction by clicking on the recipe picture
-#Tool and Technologies used
+* View Recipe's Instruction by clicking on the recipe picture
+ ---
+# Tool and Technologies used
 * Meal DB API
 * AXIOS
 * React Icon
-#Start 
-To get started with Shopzilla, follow these steps:
-
+ ---
+# Get Start
 - Clone the repository:
-* git clone https://github.com/your-username/Shopzilla.git
+(```git clone https://github.com/your-username/Shopzilla.git```)
 -Install the dependencies
-* npm install
+(```npm install```)
 - Start the development server:
-*npm start
+(```npm start```)
